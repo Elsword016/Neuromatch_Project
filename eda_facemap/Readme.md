@@ -4,7 +4,7 @@ by Biswanath Saha
 
 SVD components from FaceMap give some valuable insights into the data. So, I tried to do a simple exploration between neural activity and face movements (if any relationships to capture or any inferences that can be drawn)
 
-Notebook here: [eda_face.ipynb](eda_facemap/eda_face.ipynb)
+Check the notebook for more details.
 
 ## Reconstruction of the mouse face:
 
