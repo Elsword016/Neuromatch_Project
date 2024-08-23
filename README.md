@@ -1,14 +1,13 @@
 # Neuromatch Computational Neuroscience- Final Project
 
-## Decoding pupil area changes from V1 neuron population activity
 
 ![image](https://github.com/user-attachments/assets/a63e91b7-08b7-4a8b-a9d5-14c9d2c5b64e)
 
 
-### Dataset 
+## Dataset 
 The Stringer dataset contains simultaneous recordings of 10,000 or 20,000 neurons from a mouse's visual cortex either during the presentation of gratings or during spontaneous behaviours like running, whisking and sniffing.
 
-### Main Motivation
+## Main Motivation
 
 - Predict the pupil area changes over time from the neural activity obtained from a V1 neuronal population from a mouse in a dark environment.
 - Evaluate different linear and non-linear decoder models for accuracy
